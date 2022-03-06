@@ -3,6 +3,7 @@
 [![Windows](https://img.shields.io/badge/Platform-Windows-darkblue)](https://en.wikipedia.org/wiki/Microsoft_Windows) 
 [![Discord](https://img.shields.io/badge/Support-Discord-blue)](https://discord.gg/Mtxy3uXvcn)
 
+test
 
 **Releasing at 25 Stars!**  
 All-In-One Reaper is a program that will spam a phone number/email with messages.j  
