@@ -1,5 +1,9 @@
 # AIOReaper (Unreleased)
-All-In-One Reaper is a program that will spam a phone number/email with messages.
+[![Python](https://img.shields.io/badge/Language-Python-blue)](https://en.wikipedia.org/wiki/Python_(programming_language)) 
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg?style=flat)](https://en.wikipedia.org/wiki/Microsoft_Windows) 
+
+**Releasing at 25 Stars!**  
+All-In-One Reaper is a program that will spam a phone number/email with messages.  
 If you would like a faster/pre-release version of this, dm me on discord to buy for $30 lifetime!
 
 ## Disclaimer
