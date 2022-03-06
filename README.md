@@ -5,7 +5,7 @@
 
 
 **Releasing at 25 Stars!**  
-All-In-One Reaper is a program that will spam a phone number/email with messages.  
+All-In-One Reaper is a program that will spam a phone number/email with messages.j  
 If you would like a faster/pre-release version of this, dm me on discord to buy for $30 lifetime!
 
 ## Disclaimer
