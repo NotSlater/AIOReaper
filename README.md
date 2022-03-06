@@ -20,6 +20,9 @@ Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is m
 * Email Spam Bypass (Soon)
 * Reaper Methods (Faster Methods, 20 Stars)
 
+![image](https://user-images.githubusercontent.com/59234115/156941395-99ff6332-b0bd-4b7b-b80d-b541db754512.png)
+![image](https://user-images.githubusercontent.com/59234115/156941443-8ed58780-7ba0-4d23-b0ba-f6c3234d8775.png)
+
 ## How to Text Flood
 command - attack-sms {sms mail}:{message}:{amount}
 ```
