@@ -3,7 +3,6 @@
 [![Windows](https://img.shields.io/badge/Platform-Windows-darkblue)](https://en.wikipedia.org/wiki/Microsoft_Windows) 
 [![Discord](https://img.shields.io/badge/Support-Discord-blue)](https://discord.gg/Mtxy3uXvcn)
 
-**Releasing at 25 Stars!**  
 All-In-One Reaper is a program that will spam a phone number/email with messages.j  
 If you would like a faster/pre-release version of this, dm me on discord to buy for $30 lifetime!
 
@@ -18,12 +17,12 @@ Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is m
 * SMS Lookup (Soon)
 * Email Spammer
 * Email Spam Bypass (Soon)
-* Reaper Methods (Faster Methods, 20 Stars)
+* Rapid Methods (Faster, Paid)
 
 ![image](https://user-images.githubusercontent.com/59234115/156941395-99ff6332-b0bd-4b7b-b80d-b541db754512.png)
 ![image](https://user-images.githubusercontent.com/59234115/156941443-8ed58780-7ba0-4d23-b0ba-f6c3234d8775.png)
 
-## How to Text Flood
+## How to SMS Flood
 command - attack-sms {sms mail}:{message}:{amount}
 ```
 Step 1: Install the Release
@@ -32,7 +31,7 @@ Step 3: Then Attack with the given example
 Step 4: Ex. attack-sms 1235058000@txt.att.net:example message:10
 ```
 
-## How to Emal Flood
+## How to Email Flood
 command - attack-mail {email}:{message}:{amount}
 ```
 Step 1: Install the Release
