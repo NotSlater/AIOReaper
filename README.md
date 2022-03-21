@@ -7,7 +7,7 @@ All-In-One Reaper is a program that will spam a phone number/email with messages
 If you would like a faster/pre-release version of this, dm me on discord to buy for $30 lifetime!
 
 ## Disclaimer
-[This program](https://github.com/NotSlater/SMSBomber) is for educational purposes only!
+[This program](https://github.com/NotSlater/AIOReaper) is for educational purposes only!
 
 Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
 
