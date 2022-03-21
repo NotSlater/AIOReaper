@@ -3,8 +3,8 @@
 [![Windows](https://img.shields.io/badge/Platform-Windows-darkblue)](https://en.wikipedia.org/wiki/Microsoft_Windows) 
 [![Discord](https://img.shields.io/badge/Support-Discord-blue)](https://discord.gg/Mtxy3uXvcn)
 
-All-In-One Reaper is a program that will spam a phone number/email with messages.j  
-If you would like a faster/pre-release version of this, dm me on discord to buy for $30 lifetime!
+All-In-One Reaper is a program that will spam a phone number/email with messages.  
+If you would like to purchase Rapid Methods, Dm me on discord. ($25 for Lifetime, $10 for Month)
 
 ## Disclaimer
 [This program](https://github.com/NotSlater/AIOReaper) is for educational purposes only!
