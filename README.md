@@ -5,7 +5,7 @@
 
 All-In-One Reaper is a program that will spam a phone number/email with messages.  
 If you would like to purchase Rapid Methods, Dm me on discord. ($25 for Lifetime, $10 for Month)
-
+Releasing soon!
 ## Disclaimer
 [This program](https://github.com/NotSlater/AIOReaper) is for educational purposes only!
 
